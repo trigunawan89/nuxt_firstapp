@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # firstapp
 
 > My good Nuxt.js project
@@ -20,3 +21,6 @@ $ npm run generate
 ```
 
 For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
+=======
+# nuxt_firstapp
+>>>>>>> db496edb0019d283d748bda0590f983b6edfe001
